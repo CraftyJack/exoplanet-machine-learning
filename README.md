@@ -1,4 +1,4 @@
-# machine-learning-challenge
+# exoplanet machine learning
 
 For this exercise we use two different ML models (logistic regression and SVC) on Kepler exoplanet data. Both models were tuned using GridSearchCV.
 
